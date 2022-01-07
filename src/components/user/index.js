@@ -1,0 +1,9 @@
+export { default as UserLogin } from './UserLogin';
+export { default as UserRegist } from './UserRegist';
+export { default as UserFollow } from './UserFollow';
+export { default as UserProfile } from './UserProfile';
+export { default as UserBoard } from './UserBoard';
+export { default as UserSave } from './UserSave';
+export { default as UserComment } from './UserComment';
+export { default as UserUpdate } from './UserUpdate';
+export { default as UserSport } from './UserSport';
